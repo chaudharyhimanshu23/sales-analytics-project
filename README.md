@@ -64,10 +64,10 @@ and success criteria  of our project.
 
 ## Final result 
 
-#### Dashboard KPI Page
+#### Dashboard Key insights Page
 
 -------
- <img src="https://github.com/nemisis8564/sales-analytics-project/blob/main/performanceinsights.png" class="center">
+ <img src="https://github.com/nemisis8564/sales-analytics-project/blob/main/keyinsights.png" class="center">
 
 
  #### Dashboard Profit Analysis

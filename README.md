@@ -73,12 +73,7 @@ and success criteria  of our project.
 
 -------
  <img src="https://github.com/nemisis8564/sales-analytics-project/blob/main/performanceinsights.png" class="center">
- 
- #### Dashboard Performance Insights
 
--------
- <img src="https://github.com/nemisis8564/sales-analytics-project/blob/main/performanceinsights.png" class="center">
- 
 
  #### Dashboard Profit Analysis
  
